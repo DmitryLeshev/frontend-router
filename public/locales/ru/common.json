@@ -1,0 +1,30 @@
+{
+  "filter": {
+    "title": "Фильтр",
+    "users": "Пользователи",
+    "devices": "Устройства",
+    "taskType": "Тип задач",
+    "status": "Статус",
+    "date": "",
+    "criticality": "Критичность",
+    "all": "Все",
+    "vulnerabilities": "Уязвимости",
+    "settings": "Настройки",
+    "groupIS": "Группа ИБ",
+    "groupIT": "Группа ИТ",
+    "dateStart": "С",
+    "dateEnd": "По",
+    "open": "Открытые",
+    "closed": "Закрытые",
+    "apply": "Применить",
+    "reset": "Сбросить"
+  },
+  "status": {
+    "online": "В сети",
+    "offline": "Не в сети",
+    "error": "Сервер сбрасывает соединение",
+    "contact the administrator": "Свяжитесь с администратором",
+    "not-connected": ""
+  },
+  "save": "Сохранить"
+}

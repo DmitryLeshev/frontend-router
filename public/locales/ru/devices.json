@@ -1,0 +1,198 @@
+{
+  "page": "Устройства",
+  "chooseDevice": "Выберите устройство",
+  "incident-placeholder": "События отсутствуют",
+  "tasks-placeholder": "Уязвимости отсутствуют",
+  "info": {
+    "tab": "Информация",
+    "resume": {
+      "title": "Резюме",
+      "list": [{ "label": "Название" }, { "label": "Тип устройства" }]
+    },
+    "main": {
+      "title": "Основное",
+      "list": [
+        { "label": "ОС" },
+        { "label": "Домен/Имя компьютера" },
+        { "label": "Хост" },
+        { "label": "Производитель и модель" }
+      ]
+    },
+    "usb": {
+      "title": "Устройства USB",
+      "list": []
+    },
+    "agent": {
+      "title": "Агент",
+      "download-agent": "Cкачать агент",
+      "actions": [
+        { "label": "Выпустить сертификат" },
+        { "label": "Cкачать агент" }
+      ]
+    },
+    "equipment": {
+      "title": "Оборудование",
+      "list": [
+        { "label": "Процессор" },
+        { "label": "ОЗУ" },
+        { "label": "Видеосистема" },
+        { "label": "Накопитель" }
+      ]
+    },
+    "ports": {
+      "title": "Порты"
+    },
+    "users": {
+      "title": "Пользователи"
+    },
+    "name": "Название",
+    "deviceType": "Тип устройства",
+    "router": "Маршрутизатор",
+    "issueCertificate": "Выпустить сертификат",
+    "downloadAgent": "Cкачать агент",
+    "os": "ОС",
+    "domain": "Домен/Имя компьютера",
+    "host": "Хост",
+    "manufacturer": "Производитель и модель",
+    "cpu": "Процессор",
+    "ozu": "ОЗУ",
+    "videoSystem": "Видеосистема",
+    "storageDevice": "Накопитель",
+    "type": "Тип устройства",
+    "number": "Номер",
+    "protocol": "Протокол",
+    "banner": "Баннер"
+  },
+  "programs": {
+    "tab": "Программы"
+  },
+  "tasks": {
+    "tab": "Уязвимости"
+  },
+  "incidents": {
+    "tab": "События"
+  },
+  "list": {
+    "search": "Поиск",
+    "deviceType": "Тип устройства",
+    "types": {
+      "local": "Локальная сеть",
+      "wifi": "Wi-Fi",
+      "external": "Внешние устройства"
+    }
+  },
+  "header": {
+    "agentIsRunning": "Агент запущен",
+    "addToWhiteList": "Добавить в белый список",
+    "removeFromWhiteList": "Удалить из белого списка",
+    "removeAuditSlot": "Убрать из под защиты",
+    "agentIsInstall": "Агент установлен"
+  },
+  "device_info": {
+    "resume": {
+      "title": "Резюме",
+      "list_item_1": "Название",
+      "list_item_2": "Тип устройства",
+      "list_item_3": "ОС"
+    },
+    "main": {
+      "title": "Основное",
+      "list_item_1": "ОС",
+      "list_item_2": "Домен/Имя компьютера",
+      "list_item_3": "Хост",
+      "list_item_4": "Производитель и модель"
+    },
+    "usb": {
+      "title": "Устройства USB"
+    },
+    "equipment": {
+      "title": "Оборудование",
+      "list_item_1": "Процессор",
+      "list_item_2": "ОЗУ",
+      "list_item_3": "Видеосистема",
+      "list_item_4": "Накопитель"
+    },
+    "agent": {
+      "title": "Агент",
+      "button_1": "Выпустить сертификат",
+      "button_2": "Cкачать агент"
+    },
+    "users": {
+      "title": "Пользователи Системы"
+    }
+  },
+  "devices_wifi_info": {
+    "info": {
+      "title": "Информация",
+      "list_item_1": "Канал",
+      "list_item_2": "Шифрование",
+      "list_item_3": "WPS",
+      "list_item_4": "Скорость",
+      "list_item_5": "Сигнал"
+    },
+    "devices": {
+      "title": "Устройства"
+    },
+    "testing": {
+      "title": "Тестирование",
+      "handshake": "Анализ пакета handshake",
+      "phishing": "Фишинг тестирование",
+      "scanning": "Последнее сканирование",
+      "result": "Результат"
+    },
+    "testing_WPS": {
+      "title": "WPS: ",
+      "success": "WPS выключен",
+      "error": "WPS включен"
+    },
+    "signal_interruptions": {
+      "title": "Перебои сигнала",
+      "success": "Не были замечены",
+      "error": "Были замечены"
+    },
+    "network_attack": {
+      "title": "Атака на сеть",
+      "success": "Не были замечены",
+      "error": "Были замечены"
+    },
+    "fishing_testing": {
+      "title": "Фишинг тестирование"
+    },
+    "checking_password": {
+      "title": "Проверка пароля"
+    }
+  },
+  "devices_external": {
+    "add_device": {
+      "btn_add": "Добавить устройство"
+    }
+  },
+  "device_programs": {
+    "program": "Программа",
+    "version": "Версия",
+    "path": "Расположение",
+    "vendor": "Издатель",
+    "date": "Дата",
+    "collecting": "Данные в процессе сбора"
+  },
+  "screens": {},
+  "entryPoint": {},
+  "web": {
+    "information": "Информация",
+    "paths": "Пути",
+    "authorization": "Авторизация",
+    "tasks": "Задачи",
+    "checks": "Проверки",
+    "homePage": "Главная страница",
+    "location": "Расположение",
+    "port": "Порт",
+    "domain": "Домен",
+    "certificate": "Сертификат",
+    "validFrom": "Действителен c",
+    "validBy": "Действителен по",
+    "publicKey": "Открытый ключ ",
+    "signatureAlgorithm": "Алгоритм подписи ",
+    "publisher": "Издатель",
+    "subjectsOfTheCertificate": "Субъекты сертификата"
+  }
+}

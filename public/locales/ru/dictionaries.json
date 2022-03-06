@@ -1,0 +1,30 @@
+{
+  "purpose-of-dictionaries": {
+    "supporting-rainbow-tables": "Поддерживающие радужные таблицы",
+    "protocols": "Протоколы",
+    "logins": "Логины",
+    "passwords": "Пароли",
+    "add": "Добавить",
+    "authorization-points-found": "Обнаруженые точки авторизации",
+    "devices": "Устройства",
+    "status": "Статус",
+    "statuses": {
+      "authorization-point-found": "Tочка авторизации обнаружена",
+      "logins-expected": "Ожидаются логины",
+      "access-point-ready-to-iterate": "Точка доступа готова к перебору",
+      "enumeration-is-performed": "Производится перебор"
+    }
+  },
+  "dict": {
+    "cols": {
+      "default": "Стандартные словари",
+      "generated": "Сгенерированные словари",
+      "users": "Пользовательские словари"
+    },
+    "select-a-file": "Выбрать файл",
+    "add-dictionaries": "Добавить словарь",
+    "max-size": "Максимальный размер файла 1 ГБ",
+    "dictionary-name": "Название словаря",
+    "formed": "Формируется"
+  }
+}

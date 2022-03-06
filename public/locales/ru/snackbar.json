@@ -1,0 +1,24 @@
+{
+  "add-host-successful": "Host успешно добавлен в белый список",
+  "graphic-data": "Данные графика",
+  "connection-established": "Соединение установлено",
+  "connection-refused": "Не удаётся подключиться",
+  "default-error": "default-error",
+  "default-success": "default-success",
+  "devices": {
+    "error-bad-domain": "Не подходящий домен",
+    "remote-device-created": "Устройство добавлено",
+    "remote-device-not-unique": "Устройство уже существует",
+    "value-set-successful": "Значение изменено"
+  },
+  "login-very-shorter": "login-very-shorter",
+  "log-pass-error": "Не верный пароль или логин",
+  "you-are-not-logged": "",
+  "disconnect-successfully": "Отключение прошло успешно",
+  "server-error": "Ошибка на сервере",
+  "connection-error": "Ошибка в соединении",
+  "anketa-success": "Анкета отправлена",
+  "anketa-error": "Не корректная анкета",
+  "state-changed": "Состояние изменилось (Очень информативно)",
+  "success": "Успех"
+}

@@ -1,0 +1,73 @@
+{
+  "login": "Логин",
+  "lastname": "Фамилия",
+  "firstname": "Имя",
+  "patronymic": "Отчество",
+  "number": "Номер",
+  "email": "Электронная Почта",
+  "role": "Роль",
+  "birthday": "Дата Рождения",
+  "password": "Пароль",
+  "roles": {
+    "administrator": "Администратор",
+    "administrators": "Администраторы",
+    "employee": "Сотрудник",
+    "employees": "Сотрудники",
+    "ib": "ИБ-специалист",
+    "ibs": "ИБ-специалисты",
+    "it": "ИТ-специалист",
+    "its": "ИТ-специалисты",
+    "support": "Тех поддержка"
+  },
+  "information": {
+    "transfer": "Информация",
+    "profile": {
+      "title": "Профиль"
+    },
+    "keywords": {
+      "title": "Ключевые Слова",
+      "placeholder": "Добавьте ключевые слова"
+    },
+    "actions": {
+      "title": "Действия",
+      "buttons": {
+        "newPassword": "Новый пароль",
+        "userDeactivation": "Деактивация пользователя",
+        "userActivate": "Активировать пользователя"
+      }
+    },
+    "events": {
+      "title": "Последние События",
+      "date": {
+        "authorization": "Дата авторизации",
+        "changePassword": "Дата изменения пароля"
+      }
+    }
+  },
+  "devices": {
+    "transfer": "Защищаемые устройства",
+    "columns": {
+      "sec": "ИБ-группа",
+      "it": "ИТ-группа",
+      "owners": "Пользовательские"
+    },
+    "add": {
+      "title": "Устройства",
+      "placeholder": "Нет пользователей"
+    }
+  },
+  "registration": {
+    "btn": "Зарегистрировать",
+    "modal": {
+      "roles": {
+        "administrator": "Администратор",
+        "employee": "Сотрудник",
+        "ib": "ИБ-специалист",
+        "it": "ИТ-специалист"
+      },
+      "select_label": "Роли",
+      "title": "Регистрация пользователя",
+      "create": "Создать"
+    }
+  }
+}

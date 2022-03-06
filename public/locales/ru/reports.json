@@ -1,0 +1,76 @@
+{
+  "ready": {
+    "title": "Выпущенные",
+    "itemPlaceholder": "Отчёт формируется"
+  },
+  "formation": {
+    "title": "Формирование",
+    "inputs": {
+      "from": "С",
+      "by": "По"
+    },
+    "select": {
+      "label": "Тип",
+      "items": {
+        "work": "Отчёт о проделанной работе службы ИБ",
+        "infrastructure": "Отчёт о состоянии инфраструктуры ИБ"
+      }
+    },
+    "button": "Сформировать"
+  },
+  "auto": {
+    "title": "Автовыпуск отчетов",
+    "status": {
+      "connection-ok": "",
+      "connection-failed": "Нет соединения с сервером почты",
+      "mail-not-installed": "Почтовый сервер в настройках не указан"
+    },
+    "button": "Добавить шаблон",
+    "modal": {
+      "title": "Добавление шаблона автоматического выпуска отчета",
+      "name": "Название *",
+      "recipients": "Получатели",
+      "report": {
+        "title": "Тип отчета",
+        "select": {
+          "label": "Тип",
+          "items": {
+            "work": "Отчёт о проделанной работе службы ИБ",
+            "infrastructure": "Отчёт о состоянии инфраструктуры ИБ"
+          }
+        }
+      },
+      "periodicity": {
+        "title": "Переодичность",
+        "division": {
+          "subtitle": "Деление",
+          "settings": "Настройки",
+          "items": {
+            "everyday": "Каждый день",
+            "everyFewDays": "Каждые несколько дней",
+            "everyweek": "Каждую неделю",
+            "daysOfWeek": {
+              "monday": "Пн",
+              "tuesday": "Вт",
+              "wednesday": "Ср",
+              "thursday": "Чт",
+              "friday": "Пт",
+              "saturday": "Сб",
+              "sunday": "Вс"
+            },
+            "everyMonth": "Каждый месяц",
+            "days": {
+              "certainDay": "Определённый день",
+              "lastDay": "Последний день",
+              "penultimateDay": "Предпоследний день"
+            }
+          }
+        }
+      }
+    },
+    "buttons": {
+      "save": "Сохранить",
+      "delete": "Удалить"
+    }
+  }
+}
